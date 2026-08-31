@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-{% if site.github.is_project_page %}
-Thanks for visiting, here's what I'm working on [lately](https://github.com/dataspun).
-{% endif %}
+Thanks for visiting, here's what I'm [working](https://github.com/dataspun) on.
