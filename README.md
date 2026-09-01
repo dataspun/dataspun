@@ -1,6 +1,7 @@
 ---
 layout: default
 title: DataSpun - Geospatial Data Science
+allowTitleToDifferFromFilename: true
 ---
 ### Hi there 👋
 
