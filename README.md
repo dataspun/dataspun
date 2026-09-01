@@ -1,4 +1,5 @@
 ---
+layout: default
 title: DataSpun - Geospatial Data Science
 ---
 ### Hi there 👋
