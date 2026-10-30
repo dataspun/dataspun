@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Thanks for visiting, here's the [latest](https://github.com/dataspun).
+Thanks for visiting, here's my [latest work](https://github.com/dataspun).
